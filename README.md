@@ -1,6 +1,6 @@
 # BuzzFeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Projeto feito em angular, esse é um projeto que possuem algumas perguntas para o usuário ir respondendo e no final descobrir se o cliente pode ser um vilão ou um herói.
 
 ## Development server
 
